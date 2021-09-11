@@ -1,1 +1,2 @@
 This is the Second Story
+This is a Green Story.
